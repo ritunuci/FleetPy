@@ -32,7 +32,7 @@ def run_scenarios(constant_config_file, scenario_file, n_parallel_sim=1, n_cpu_p
     This function combines constant study parameters and scenario parameters.
     Then it sets up a pool of workers and starts a simulation for each scenario.
     The required parameters are stated in the documentation.
-
+#ritun
     :param constant_config_file: this file contains all input parameters that remain constant for a study
     :type constant_config_file: str
     :param scenario_file: this file contain all input parameters that are varied for a study
